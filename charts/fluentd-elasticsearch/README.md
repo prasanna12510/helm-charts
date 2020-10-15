@@ -5,7 +5,7 @@
 ## Add the Helm repo via
 
 ```console
-helm repo add prasanna12510 https://kokuwaio.github.io/helm-charts
+helm repo add prasanna12510 https://prasanna12510.github.io/helm-charts
 ```
 
 ## Sources
